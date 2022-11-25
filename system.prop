@@ -30,6 +30,9 @@ pm.dexopt.bg-dexopt=speed-profile
 pm.dexopt.boot=verify
 pm.dexopt.first-boot=quicken
 
+# Blur
+persist.sys.sf.disable_blurs=1
+
 # Display
 ro.opengles.version=196610
 
