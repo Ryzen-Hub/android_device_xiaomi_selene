@@ -33,6 +33,9 @@ pm.dexopt.first-boot=quicken
 # Display
 ro.opengles.version=196610
 
+#DEX
+persist.sys.dalvik.multithread=true
+
 # Camera
 ro.product.system.manufacturer=Xiaomi
 ro.product.manufacturer=Xiaomi
